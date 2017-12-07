@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "vilij",
+    "description": "No description",
+    "slug": "vilij",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/images/icon.png",
+    "facebookScheme": "fb1808972019114012",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
